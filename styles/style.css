@@ -1,0 +1,27 @@
+*{
+    margin: 9px;
+}
+
+
+/* .container {
+    width: 1200px;
+    height: 400px;
+    display: flex;
+
+} */
+
+.button {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(238, 162, 20);
+    border-radius: 50%;
+    font-size: medium;
+    border: none;
+    margin: 50px 20px;
+}
+
+.form {
+    margin: 50px 50px;
+    
+}
+
